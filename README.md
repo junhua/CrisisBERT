@@ -4,7 +4,7 @@
 <br>
 
 This repo includes:
-* **3 Datasets** used for CrisisBERT paper, available for [Download](https://drive.google.com/file/d/123xqvBYnPNII-_KY1GppMdMKcfirLIBZ).
+* **Datasets** used for CrisisBERT paper, available for [Download](https://drive.google.com/file/d/123xqvBYnPNII-_KY1GppMdMKcfirLIBZ).
 
 ## Citing CrisisBERT
 
